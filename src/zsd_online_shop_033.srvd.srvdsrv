@@ -1,0 +1,4 @@
+@EndUserText.label: 'Svr def for online shop'
+define service ZSD_ONLINE_SHOP_033 {
+  expose ZC_ONLINE_SHOP_033 as online_shop;
+}
